@@ -1,6 +1,8 @@
 # Online Courses
 ====================
 
+[![Join the chat at https://gitter.im/deepankarpathak/OnlineCourses](https://badges.gitter.im/deepankarpathak/OnlineCourses.svg)](https://gitter.im/deepankarpathak/OnlineCourses?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Stanford University
 - Machine Learning
 - Natural Language Processing
